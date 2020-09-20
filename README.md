@@ -13,3 +13,9 @@ Steps to check the restaurant fetching api
 2. Example request => http://localhost:3000/api/v1/getRestaurants?place=Sonia Vihar
 
 3. Now you will get the list of restaurants.
+
+Alternative to checke the api
+
+1. Visit http://13.233.148.68:3000/api/v1/getRestaurants?place=Sonia%20Vihar , just change the place name to get the list of restaurants in that area.
+
+2. I have deployed this application EC2 instance
