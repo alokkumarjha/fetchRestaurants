@@ -18,4 +18,4 @@ Alternative to checke the api
 
 1. Visit http://13.233.148.68:3000/api/v1/getRestaurants?place=Sonia%20Vihar , just change the place name to get the list of restaurants in that area.
 
-2. I have deployed this application EC2 instance
+2. I have deployed this application on EC2 instance
